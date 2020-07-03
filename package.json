@@ -1,0 +1,24 @@
+{
+  "name": "mqtt-sd-2020-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "node client.js",
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelfl/mqtt-sd-2020-3.git"
+  },
+  "author": "Rafael Fernandes Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelfl/mqtt-sd-2020-3/issues"
+  },
+  "homepage": "https://github.com/rafaelfl/mqtt-sd-2020-3#readme",
+  "dependencies": {
+    "mqtt": "^4.1.0"
+  }
+}
